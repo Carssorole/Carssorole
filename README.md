@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Carssorole
-- 👀 I’m interested in x86 with DirectX capabilites
-- 🌱 I’m currently learning Rust, Project Managment, and finishing my bachelors
+- 👋 Hi, I’m Carson Mead @Carssorole
+- 👀 I’m interested in x86 with OpenGL capabilites
+- 🌱 I’m currently learning Rust 👎, Project Managment, and finishing my bachelors 👍
 - 📫 My email is carsonamead@hotmail.com
 
 
